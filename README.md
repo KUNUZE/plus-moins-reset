@@ -1,1 +1,2 @@
 # plus-moins-reset
+Ce code initialise un compteur à zéro et utilise des événements click pour les boutons "Moins", "Plus" et "Reset" pour mettre à jour la valeur du compteur. Lorsque l'utilisateur clique sur le bouton "Moins", le compteur est décrémenté de 1, lorsque l'utilisateur clique sur le bouton "Plus", le compteur est incrémenté de 1 et lorsque l'utilisateur clique sur le bouton "Reset", la valeur du compteur est réinitialisée à zéro.
